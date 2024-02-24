@@ -1,0 +1,34 @@
+/* Write your CSS here */
+
+.count-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  height: 100vh;
+}
+.count-head {
+  color: #2d3a35;
+  font-size: 27px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-align: center;
+}
+.count-value {
+  color: #c20a72;
+  font-size: 29px;
+}
+.count-des {
+  color: #2d3a35;
+  font-size: 17px;
+  padding: 10px;
+}
+.button {
+  background-color: #007bff;
+  height: 50px;
+  width: 120px;
+  color: #ffffff;
+  padding: 5px;
+  text-align: center;
+}
